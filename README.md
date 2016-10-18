@@ -2,10 +2,10 @@
 ===================================
 
 This solution may be suitable for you if you:
-1. Want to give users a direct link from a Primo result to a prepopulated ILL form
-1. Use Alma but *don't* use its internal ILL functionality
-1. Can run PHP on your own server
-1. Want ILL requests to be emailed to your ILL team
+* Want to give users a direct link from a Primo result to a prepopulated ILL form
+* Use Alma but *don't* use its internal ILL functionality
+* Can run PHP on your own server
+* Want ILL requests to be emailed to your ILL team
 
 You can see a working implementation from: http://primo-direct-apac.hosted.exlibrisgroup.com/LIN:All_resources:TN_informit814504053758056
 
